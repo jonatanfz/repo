@@ -8,7 +8,7 @@ Este projeto apresenta uma página simples sobre a cidade de Curitiba, capital d
 ## 🚀 Tecnologias utilizadas
 - **HTML5** 
 - **CSS3**   
-- **Git & GitHub** → Versionamento e deploy.  
+- **Git & GitHub**  
 - **JavaScript**
 - **jQuery**   
 
@@ -25,4 +25,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 ---
 
 ## 👨‍💻 Autor
-Feito por **Jonatan Fiuza** durante ocurso de ADS na Uninter
+Feito por **Jonatan Fiuza** durante o curso de ADS na Uninter
